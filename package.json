@@ -1,0 +1,32 @@
+{
+  "name": "kr-constitution",
+  "version": "1.0.0",
+  "description": "korean constitution in code",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.11.1",
+    "@typescript-eslint/parser": "^4.11.1",
+    "eslint": "^7.16.0",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hakoiko/kr-constitution.git"
+  },
+  "keywords": [
+    "law"
+  ],
+  "author": "hakoiko@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hakoiko/kr-constitution/issues"
+  },
+  "homepage": "https://github.com/hakoiko/kr-constitution#readme"
+}
