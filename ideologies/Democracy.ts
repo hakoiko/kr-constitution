@@ -9,6 +9,5 @@ export interface Democracy {
   /** 사회의 대표자. 있는 경우도, 없는 경우도 있습니다 */
   representor?: Person,
   /** 정당. 정당이 없이 직접참여하는 민주주의 제도도 있을 수 있으므로 Optional로 합니다 */
-  perties?: { [key: string] : Party }
+  perties?: { [key: string]: Party }
 }
-

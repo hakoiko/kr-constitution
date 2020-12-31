@@ -1,4 +1,4 @@
-import { Person } from './Person';
+import { Person } from './Person'
 
 /**
  * 정당법에서 정의하는 기준과 별개로, 민주주의 사회에서 '정당'이 가지는 기본 요소만을 정의합니다.
